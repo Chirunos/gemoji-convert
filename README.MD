@@ -2,9 +2,7 @@ Converts https://github.com/github/gemoji/pull/294 (https://raw.githubuserconten
 
 ## Modifications made to input.json
 
-Added `united_kingdom` shortcode.
-Removed `israel`
-Add extra flag shortcodes (flag_gb, flag_ps, etc...)
+Add `united_kingdom` and extra flag shortcodes (`flag_gb`, `flag_ps`, etc.)
 
 ## Used in:
 

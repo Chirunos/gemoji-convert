@@ -16028,6 +16028,15 @@
     "ios_version": "8.3"
   },
   {
+    "emoji": "🇮🇱",
+    "description": "flag: Israel",
+    "category": "Flags",
+    "aliases": ["israel", "flag_il"],
+    "tags": [],
+    "unicode_version": "6.0",
+    "ios_version": "8.3"
+  },
+  {
     "emoji": "🇮🇲",
     "description": "flag: Isle of Man",
     "category": "Flags",
